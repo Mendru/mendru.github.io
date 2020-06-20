@@ -1,0 +1,2 @@
+# mendru.github.io
+blog
