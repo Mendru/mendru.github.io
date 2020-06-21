@@ -4082,7 +4082,7 @@ li.feature-2 {
     color:#eaeadf;
     background:rgba(0,0,0,.5);
     padding:15px;
-    margin-top:22px;
+    margin-top:0;
     letter-spacing:0;
     line-height:30px;
     border-radius:10px;
@@ -4099,11 +4099,11 @@ li.feature-2 {
     border-style:solid;
     border-color:transparent transparent rgba(0,0,0,.5) transparent
 }*/
-.header-info p {
+/*.header-info p {
     margin:0;
     font-family:'Ubuntu',sans-serif;
     font-weight:700
-}
+}*/
 .top-social {
     height:32px;
     margin-top:30px;
@@ -4122,10 +4122,11 @@ li.feature-2 {
     margin-right:10px
 }
 .top-social_v2 {
-    height:32px;
-    margin-bottom:-15px;
+    height:37px;
+    margin-bottom:-25px;
     margin-left:10px;
     list-style:none;
+    border-radius: 50px;
     display:inline-block
 }
 .top-social_v2 img {
