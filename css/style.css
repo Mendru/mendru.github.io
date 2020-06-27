@@ -6946,7 +6946,7 @@ to {
     position:fixed;
     top:0;
     height:3px;
-    background:#498cff !important;
+    background:#498cff;
     transition-property:width;
     transition-duration:1s,1s;
     z-index:99999
